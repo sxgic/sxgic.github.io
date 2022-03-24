@@ -15,5 +15,8 @@ repository: sxgic/sxgic.github.io
 include:
   - CNAME
 
-exclude:
-  - README.md
+plugins:
+  - jekyll-org
+  - jekyll-toc
+  - jekyll-feed
+  - jekyll-sitemap
