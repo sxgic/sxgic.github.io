@@ -17,8 +17,3 @@ include:
 
 exclude:
   - README.md
-
-plugins:
-  - jekyll-org
-  - jekyll-toc
-  - jekyll-sitemap
