@@ -11,3 +11,6 @@ twitter_username: geekpanshi
 github_username:  xingangshi
 
 repository: sxgic/sxgic.github.io
+
+include:
+  - CNAME
