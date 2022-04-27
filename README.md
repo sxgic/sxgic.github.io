@@ -2,11 +2,15 @@
 
 ## About me
 
-🌱 Friends links: [shixiongfei](https://github.com/shixiongfei), [qysit](http://www.qysit.com/).</br>
-🚀 I love coding, contributing and collaborating, [github](https://github.com/xingangshi), [twitter](http://twitter.com/geekpanshi), [weibo](https://weibo.com/u/6726260941).</br>
-📄 More about me is on my blog: [panshi](https://www.geekpanshi.com/panshi/), [diary](https://www.sxgic.com/diary/), [OA](https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/mp.png), [oldBlog](https://www.geekpanshi.com).</br>
-💬 Connect with me by WeChat account of [bqunbq](https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/images/about/panshidushuhui.png).</br>
-📫 Connect with me by sending email [geekpanshi@gmail.com](mailto:geekpanshi@gmail.com).</br>
+Friends links: [shixiongfei](https://github.com/shixiongfei), [qysit](http://www.qysit.com/).
+
+I love coding, contributing and collaborating, [github](https://github.com/xingangshi), [twitter](http://twitter.com/geekpanshi), [weibo](https://weibo.com/u/6726260941).
+
+More about me is on my blog: [panshi](https://www.geekpanshi.com/panshi/), [diary](https://www.sxgic.com/diary/), [OA](https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/mp.png), [oldBlog](https://www.geekpanshi.com).
+
+Connect with me by WeChat account of [bqunbq](https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/images/about/panshidushuhui.png).
+
+Connect with me by email [geekpanshi@gmail.com](mailto:geekpanshi@gmail.com).
 
 ## Stats for Github
 
