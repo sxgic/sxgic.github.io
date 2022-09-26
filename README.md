@@ -16,7 +16,12 @@ Connect with me by email [geekpanshi@gmail.com](mailto:geekpanshi@gmail.com).
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"></a>
 
-[![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingangshi&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=xingangshi&layout=compact&langs_count=10)
+## I have read 5 books this year
 
-[![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
-
+| ID | Title                                                                   | Authors                                                 | Date       |
+| ---| ----------------------------------------------------------------------- | ------------------------------------------------------- | ---------- |
+| 1  | [程序员修炼之道：通向务实的最高境界](https://item.jd.com/12828404.html) | Andrew Hunt(安德鲁·亨特) (美)David Thomas(大卫·托马斯)  | 2022-04-10 |
+| 2  | [平凡的世界](https://item.jd.com/13631400.html)                         | 路遥                                                    | 2022-05-10 |
+| 3  | [搞定Ⅰ 无压工作的艺术](https://item.jd.com/11916193.html)              | [美] 戴维·艾伦（David Allen） 著，张静 译               | 2022-06-23 |
+| 4  | [万箭穿心](https://item.jd.com/10048922824730.html)                     | 方方 著                                                 | 2022-08-30 |
+| 5  | [生死疲劳](https://item.jd.com/10042691540565.html)                     | 莫言 著                                                 | 2022-09-21 |
