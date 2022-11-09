@@ -14,9 +14,9 @@ Connect with me by email [geekpanshi@gmail.com](mailto:geekpanshi@gmail.com).
 
 ## Stats for Github
 
-<a href="https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true"><img src="https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true"></a>
+[![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingangshi&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=xingangshi&layout=compact&langs_count=10)
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xingangshi&layout=compact&langs_count=10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingangshi&layout=compact&langs_count=10"></a>
+[![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
 
 ## I have read 5 books this year
 
